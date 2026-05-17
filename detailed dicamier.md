@@ -45,5 +45,3 @@ This report contains highly sensitive information regarding the client's securit
 
 * **For Pre-Engagement (SOW/MSA):** Place a condensed version of this in your Master Services Agreement under "Limitation of Liability" and "Warranties," ensuring the client signs it *before* any testing begins.  
 * **For the Final Report:** Place the full text on one of the very first pages (right after the Title Page or Executive Summary) to ensure it is immediately visible to any stakeholders reading the document.
-
-Would you like to adjust the tone of any specific section to better align with your existing legal templates?
